@@ -160,8 +160,6 @@ This trains all ML models again and selects the best.
 * Deploy on Streamlit Cloud / Render / HuggingFace
 * Add downloadable PDF prediction report
 
-(If you want any of these, I can write the upgraded code for you.)
-
 ---
 
 # Author
